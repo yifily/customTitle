@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/search_1.png</file>
+        <file>image/search_2.png</file>
+        <file>image/search_3.png</file>
+        <file>image/logoko2.png</file>
+        <file>image/shirt1.ico</file>
+        <file>image/shirt2.ico</file>
+        <file>image/shirt3.ico</file>
+        <file>image/hide1.png</file>
+        <file>image/hide2.png</file>
+        <file>image/hide3.png</file>
+        <file>image/close1.png</file>
+        <file>image/close2.png</file>
+        <file>image/close3.png</file>
+    </qresource>
+</RCC>
